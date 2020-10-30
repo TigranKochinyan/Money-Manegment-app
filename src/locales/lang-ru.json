@@ -1,0 +1,71 @@
+{
+    "profileTitle": "Профлиь",
+    "home-page-score": "Счет",
+    "history-page-record-history": "История записей",
+    "history-page-records-not-found": "Записей пока нет",
+    "history-page-record-add": "Добавить",
+
+    "income": "Доход",
+    "outcome": "Расход",
+    "next": "предыдущий",
+    "previous": "следующий",
+    "watch-detail-record": "Посмотреть запись",
+
+    "planning": "Планирование",
+    "category-not-found": "Категорий пока нет.",
+    "add-new-category" : "Добавить новую категорию",
+    "choose-category": "Выберите категорию",
+
+    "new-record": "Новая запись",
+
+    "minimal-value": "Минимальное значене",
+    "description": "Описание",
+    "create": "Создать",
+    "name": "Имя",
+    "write-your-name": "Ввидите Ваше имя",
+    "choose-language": "Выберите Язык",
+    "refresh": "Обновить",
+    "home-bookkeeping": "Домашняя бухгалтерия",
+    "email": "Эл. адрес",
+    "empty-email": "Поле Эл. адрес не должно быть пустым",
+    "invalid-email": "Введите коректный Email",
+    "password": "Пароль",
+    "write-password": "Введите пароль",
+    "password-must-be": "Пароль должен быть",
+    "password-now": "смволов, Сейчас он",
+    "agree": "С правилами согласен",
+    "register": "Зарегистрироваться",
+    "already-have-account": "Уже есть аккаунт?",
+    "sign-in": "Войти!",
+    "not-have-account": "Нет аккаунта?",
+    "record": "Запись",
+    "not-found": "не найдено",
+    "history": "История",
+    "categories": "Категории",
+    "title": "Название",
+    "write-catgory-title": "Введите название категории",
+    "limit": "Лимит",
+    "min-vlue": "Минимальная величина",
+    "edit": "Редактировать",
+    "add-record": "Добавть запись",
+    "something-went-wrong": "что то пошло не так",
+ 
+
+
+    "history-page-historytable-amount": "Сумма",
+    "history-page-historytable-date": "Дата",
+    "history-page-historytable-category": "Категория",
+    "history-page-historytable-type": "Тип",
+    "history-page-historytable-open": "Открыть",
+    "home-page-homebill-account-in-currency": "Счет в валюте",
+    "home-page-homecurrency-exchange-rates": "Курс валют",
+    "home-page-homecurrency-currency": "Валюта",
+    "home-page-homecurrency-rates": "Курс",
+    "home-page-homecurrency-date": "Дата"
+
+
+
+    
+
+    
+}

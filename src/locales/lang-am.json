@@ -1,0 +1,94 @@
+{
+    "profileTitle": "Անձնական էջ",
+    "home-page-score": "Գումար",
+    "history-page-record-history": "Գրանցումների պատմությունը",
+    "history-page-records-not-found": "Գրանցումներ դեռ չկան",
+    "history-page-record-add": "Գրանցել",
+
+    "income": "Եկամուտ",
+    "outcome": "Սպառում",
+    "next": "Հաջորդ",
+    "previous": "Նախորդ",
+    "watch-detail-record": "Դիտել գրանցումը",
+    
+    "planning": "Պլանավորում",
+    "category-not-found": "Կատեգորիաներ դեռ չկան",
+    "add-new-category" : "Ավելացնել նոր կատեգորիա",
+    "choose-category": "Ընտրել կատեգորիան",
+
+
+    "new-record": "Նոր գրանցում",
+
+    "minimal-value": "Մինիմալ արժեք",
+    "description": "Նկարագրություն",
+    "create": "Ստեղծել",
+    "name": "Անուն",
+    "write-your-name": "Գրեք ձեր անունը",
+    "choose-language": "Ընտրեք լեզուն",
+    "refresh": "Թարմացնել",
+    "home-bookkeeping": "Տնային հաշվապահություն",
+    "email": "Էլ․ հասցե",
+    "empty-email": "Էլ․ հասցեն չպիտի լինի դատարկ",
+    "invalid-email": "Գրեք ճիշտ Էլ․ հասցե",
+    "password": "Գաղտնաառ",
+    "write-password": "Գրեք գաղտնաբառը",
+    "password-must-be": "Գաղտնաբառը պետք է լինի",
+    "password-now": "սիմվոլ, իսկ հիմա",
+    "agree": "Պայմանների հետ համաձայն եմ",
+    "register": "Գրանցվել",
+    "already-have-account": "Արդեն ունեք հաշիվ?",
+    "sign-in": "Մուտք գործել",
+    "not-have-account": "Չունեք հաշիվ?",
+    "record": "Գրանցում",
+    "not-found": "Չի գտնվել",
+    "history": "Պատմություն",
+    "categories": "Կատեգորիաներ",
+    "title": "Անվանում",
+    "write-catgory-title": "Գրեք կատեգորիայի անվանումը",
+    "limit": "Առավելագույն արժեք",
+    "min-vlue": "Նվազագույն արժեքն է",
+    "edit": "Փոխել",
+    "add-record": "Ավելացնել գրանցում",
+    "something-went-wrong": "Ինչ որ բան այն չէ",
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "history-page-historytable-amount": "Ընդհանուր",
+    "history-page-historytable-date": "Ամսաթիվ",
+    "history-page-historytable-category": "Կատեգորիա",
+    "history-page-historytable-type": "Տեսակ",
+    "history-page-historytable-open": "Բացել",
+    "home-page-homebill-account-in-currency": "Գումարը տարադրամներով",
+    "home-page-homecurrency-exchange-rates": "Փոխարժեքները",
+    "home-page-homecurrency-currency": "Արժույթ",
+    "home-page-homecurrency-rates": "Փոխարժեքները",
+    "home-page-homecurrency-date": "Ամսաթիվ"
+
+
+
+
+}
